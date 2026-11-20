@@ -8,6 +8,7 @@
   Building useful software. Learning to make it safer.
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-haikal-b5b06831b/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View_live-e0231c?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karllitoo.github.io/portfolio/)
   [![Explore my work](https://img.shields.io/badge/GitHub-Explore_my_work-161B22?style=for-the-badge&logo=github&logoColor=7EE787)](https://github.com/Karllitoo?tab=repositories)
 </div>
 
@@ -53,6 +54,17 @@ I'm a **software development and cybersecurity student** based in **Kuala Lumpur
 ### `03 / selected builds`
 
 <p align="center">
+  <a href="https://karllitoo.github.io/portfolio/"><img src="https://raw.githubusercontent.com/Karllitoo/portfolio/main/docs/cover.svg" width="100%" alt="Haikal — my personal portfolio. Software development and cybersecurity in an interactive Kyoto temple experience." /></a>
+</p>
+
+**[Haikal · Personal Portfolio](https://karllitoo.github.io/portfolio/)**
+
+My background, selected work, and experience inside an interactive Three.js temple world. Built with React, TypeScript, and Vite, with responsive layouts, project dialogs, and my own portrait.
+
+**[Visit the live portfolio](https://karllitoo.github.io/portfolio/)** · [Explore the source](https://github.com/Karllitoo/portfolio)
+
+
+<p align="center">
   <a href="https://github.com/Karllitoo/intelligent-employee-management-system"><img src="assets/iems.svg" width="420" alt="IEMS — employee management, React, Node.js, MySQL and Python. View source." /></a>
   <a href="https://github.com/Karllitoo/CyberWatch"><img src="assets/cyberwatch.svg" width="420" alt="CyberWatch — security event monitoring and explainable investigations, built with Laravel. View source." /></a>
   <a href="https://github.com/Karllitoo/neon-siege"><img src="assets/neon-siege.svg" width="420" alt="NEON SIEGE — a procedural 3D robot arena shooter, built with TypeScript and Three.js. View source." /></a>
@@ -61,6 +73,7 @@ I'm a **software development and cybersecurity student** based in **Kuala Lumpur
 
 | Project | What I built | Explore |
 | :--- | :--- | :--- |
+| **[Haikal Portfolio](https://github.com/Karllitoo/portfolio)** | An English personal portfolio with a live Three.js temple scene, project details, portrait, and professional background. | [Live website](https://karllitoo.github.io/portfolio/) · [Source](https://github.com/Karllitoo/portfolio) |
 | **[Intelligent Employee Management System](https://github.com/Karllitoo/intelligent-employee-management-system)** | Employee records, attendance, leave, reporting, and workforce analytics with authentication and role-based access. | [Source ↗](https://github.com/Karllitoo/intelligent-employee-management-system) |
 | **[CyberWatch](https://github.com/Karllitoo/CyberWatch)** | A Laravel portfolio project for security logs, rule-based detection, evidence-backed alerts, and investigations. | [Source ↗](https://github.com/Karllitoo/CyberWatch) |
 | **[NEON SIEGE](https://github.com/Karllitoo/neon-siege)** | A single-player robot arena shooter with procedural visuals and sound, built with TypeScript, Three.js, and Vite. | [Source ↗](https://github.com/Karllitoo/neon-siege) |
